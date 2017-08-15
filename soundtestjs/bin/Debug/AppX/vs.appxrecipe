@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SPECTRE</Machine>
+    <WindowsUser>roryo</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b50089f7-044e-4452-8fe5-fbbc8e5ad4b4</PackageIdentityName>
+    <PackageIdentityPublisher>CN=roryo</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>CE559C811DB9F1B07BFD0A1B9404F511D422CD6DE9D1805731D464163AD433CD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b50089f7-044e-4452-8fe5-fbbc8e5ad4b4_1.0.0.0_neutral__g1r6yzkdmmndm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b50089f7-044e-4452-8fe5-fbbc8e5ad4b4_g1r6yzkdmmndm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b50089f7-044e-4452-8fe5-fbbc8e5ad4b4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=roryo</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-15T08:41:06.794</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-08-15T08:42:05.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-08-15T08:40:41.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-08-15T08:40:41.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roryo\documents\visual studio 2015\Projects\soundtestjs\soundtestjs\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-08-15T08:41:06.413</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
